@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyfoesSolver", "LyfoesSolver\LyfoesSolver.csproj", "{49264D35-2DDF-48CD-84A4-E1D574CA6EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyfoesSolver.Application", "LyfoesSolver.Application\LyfoesSolver.Application.csproj", "{3FFEF1D3-2E11-450B-B932-6A724482BF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49264D35-2DDF-48CD-84A4-E1D574CA6EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49264D35-2DDF-48CD-84A4-E1D574CA6EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49264D35-2DDF-48CD-84A4-E1D574CA6EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49264D35-2DDF-48CD-84A4-E1D574CA6EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFEF1D3-2E11-450B-B932-6A724482BF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFEF1D3-2E11-450B-B932-6A724482BF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFEF1D3-2E11-450B-B932-6A724482BF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFEF1D3-2E11-450B-B932-6A724482BF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05E74E42-A0F8-4660-B8CB-BA0C17BD2A27}
+	EndGlobalSection
+EndGlobal
