@@ -2,9 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/src/LyfoesSolver/bin/Debug/netcoreapp3.1
+/src/LyfoesSolver/bin
 /src/LyfoesSolver/obj
-/src/LyfoesSolver.Application/bin/Debug/netcoreapp3.1
-/src/LyfoesSolver.Application/obj/Debug/netcoreapp3.1
+/src/LyfoesSolver.Application/bin
 /src/LyfoesSolver.Application/obj
 /.vs
